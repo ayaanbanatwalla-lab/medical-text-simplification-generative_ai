@@ -1,0 +1,36 @@
+{
+  "n_test": 120,
+  "rouge1": {
+    "baseline": 0.2802977599709068,
+    "proposed": 0.259725918445607
+  },
+  "rouge2": {
+    "baseline": 0.061378558559756234,
+    "proposed": 0.047913876545442
+  },
+  "rougeL": {
+    "baseline": 0.19281476223412686,
+    "proposed": 0.18136854410903366
+  },
+  "flesch_reading_ease": {
+    "source": 45.50048861230827,
+    "reference": 44.92832121641257,
+    "baseline": 55.94946004824312,
+    "proposed": 58.54235849936885
+  },
+  "flesch_kincaid_grade": {
+    "source": 10.912148179689677,
+    "reference": 11.363334021955593,
+    "baseline": 8.174061111605706,
+    "proposed": 7.833761779113516
+  },
+  "glove_cosine_sim_vs_reference": {
+    "baseline": 0.9586781819661458,
+    "proposed": 0.9572957172989845
+  },
+  "numeric_overlap": {
+    "refs_with_numbers": 84,
+    "baseline_preserves": 5,
+    "proposed_preserves": 4
+  }
+}
