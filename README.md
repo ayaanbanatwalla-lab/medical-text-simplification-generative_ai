@@ -1,6 +1,6 @@
 # Accuracy-Aware Medical Text Simplification Using Generative AI
 
-Generative AI IA-1 — Ayaan Banatwalla (16014223025), Anjali Ashtankar (16014223012)
+Generative AI IA-1 — Anjali Ashtankar (16014223012), Ayaan Banatwalla (16014223025)
 KJ Somaiya School of Engineering
 
 A Generative AI system that simplifies technical medical text (Cochrane systematic-review
